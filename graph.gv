@@ -1,0 +1,11 @@
+digraph G {
+	id2[label="+"]
+	id1[label="3"]
+	id2 -> id1
+	id8[label="*"]
+	id2 -> id8
+	id7[label="5"]
+	id8 -> id7
+	id10[label="4"]
+	id8 -> id10
+}
